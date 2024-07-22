@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/data-int-hub/data-int-hub) are some ideas to get you started.
+Here [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/data-int-hub) are some ideas to get you started.
 
 # Bio
 
