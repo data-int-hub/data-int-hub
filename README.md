@@ -3,8 +3,6 @@
 # Hi 👋 I'm Daya
 ### Data Scientist & AI Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=data-int-hub" alt="data-int-hub" /> </p>
-
 - 💻 I'm actively working on projects that merge **Business Intelligence**, **Data Science**, and **Artificial Intelligence** to solve real-world challenges.
 - 🧠 I'm passionate about **AI-driven solutions** and **advanced analytics**, especially in domains like **Text Mining**, **NLP**, and **Machine Learning**.
 - 🛠️ Technologies and tools in my stack:  
@@ -31,12 +29,14 @@
 
 ---
 
-## 🌐 Connect with me:
+## 🌐 Connect with me : 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/data-int-hub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/dayasylla/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://x.com/BrainYadzo/followers)
 [![Instagram](https://img.shields.io/badge/Instagram-Connect-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://www.instagram.com/dayalabtech/)
 [![TikTok](https://img.shields.io/badge/TikTok-Connect-informational?style=for-the-badge&logo=tiktok&logoColor=white&color=FF0050)](https://www.tiktok.com/@smdlabtech)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-informational?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000)](https://www.youtube.com/channel/UCvC9Fh--HrJ2pV0vEq6gj5Q)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=data-int-hub" alt="data-int-hub" /> </p>
 
 ![Daya's GitHub stats](https://github-readme-stats.vercel.app/api?username=data-int-hub&theme=nightowl&show_icons=true)
