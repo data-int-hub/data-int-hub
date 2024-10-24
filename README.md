@@ -1,7 +1,7 @@
 
 
 # Hi 👋 I'm Daya
-### Data Scientist & AI Enthusiast
+### Data Scientist & AI Engineer
 
 - 💻 I'm actively working on projects that merge **Business Intelligence**, **Data Science**, and **Artificial Intelligence** to solve real-world challenges.
 - 🧠 I'm passionate about **AI-driven solutions** and **advanced analytics**, especially in domains like **Text Mining**, **NLP**, and **Machine Learning**.
